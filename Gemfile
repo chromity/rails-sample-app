@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.3'
 gem 'bootstrap-sass', '~> 3.3.7'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
+# Use rails-controller-testing for Integration test
+gem 'rails-controller-testing'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
